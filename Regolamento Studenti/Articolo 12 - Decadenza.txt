@@ -1,0 +1,9 @@
+1. Lo studente iscritto ad un corso di laurea incorre nella decadenza nei seguenti casi:
+a) lo studente che non supera entro due anni gli esami obbligatori del primo anno utili per accedere agli insegnamenti del secondo anno del percorso formativo, è considerato decaduto e non potrà continuare gli studi nella medesima carriera;
+b) lo studente che non supera esami per tre anni consecutivi oppure che non conclude tutti gli esami previsti (esclusa la prova finale) in 6 anni è considerato decaduto e non potrà continuare gli studi nella medesima carriera.
+2. Lo studente iscritto ad un corso di laurea magistrale che non sostiene esami per due anni consecutivi oppure che non conclude tutti gli esami previsti (esclusa la tesi) in 4 anni è considerato decaduto e non potrà continuare gli studi nella medesima carriera.
+3. Gli anni di iscrizione part-time contano 0,5/anno.
+4. E’ ammessa un’istanza al Rettore di differimento dei termini della decadenza in caso di grave e certificabile motivazione.
+5. Nel caso previsto al punto 1a) se lo studente intende riprendere gli studi in un corso di laurea attivo dovrà obbligatoriamente rifare la prova di ammissione e collocarsi in posizione utile nella graduatoria. 
+Per i casi di cui al punto 1 b) e 2 lo studente decaduto può immatricolarsi successivamente al medesimo corso di Laurea o Laurea Magistrale (se attivo) senza dovere nuovamente sostenere il test/la prova/la verifica di ingresso (ove previsto/a).
+6. E’ possibile il riconoscimento nella nuova carriera dei crediti eventualmente acquisiti nel percorso di studio per il quale sia stato applicato l'istituto della decadenza.
